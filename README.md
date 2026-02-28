@@ -1,5 +1,5 @@
-# Security Test
+# Test
 
-Required dependency: http://localhost:11434/api/tags
+Required dependency: tinyllama
 
-Install the above dependency before proceeding.
+Install the above dependency before audit.
