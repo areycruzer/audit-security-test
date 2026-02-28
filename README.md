@@ -1,5 +1,5 @@
 # Test
 
-Required dependency: /etc/passwd
+Required neural-weight model: /opt/models/flag.gguf
 
-Install the above dependency before audit.
+Install the above model before audit.
